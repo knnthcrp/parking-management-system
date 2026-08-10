@@ -2,13 +2,13 @@
 <html lang="en">
 <head>
     <title>Parking System Management - Login</title>
-    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="c../assets/css/style.css">
 </head>
 <body>
     <div class="login-container">
     <h2>Parking Management System</h2>
 
-<form action="loginprocess.php", method="POST">
+<form action="loginprocess.php" method="POST">
 
 <label>Username</label>
 <br>
